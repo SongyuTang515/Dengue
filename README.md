@@ -1,15 +1,6 @@
 Dengue Fever Prediction
 This project aims to predict dengue fever outbreaks using data-driven machine learning models. The goal is to assist public health officials in taking timely preventive measures.
 
-📁 Project Structure
-
-dengue-prediction/
-├── data/
-│   ├── raw/         # Raw, unprocessed data
-│   └── processed/   # Cleaned and preprocessed data
-├── src/             # Source code for data processing, training, evaluation, etc.
-├── model/           # Saved trained models
-└── README.md        # Project documentation
 
 📊 Data Description
 raw/: Contains the original datasets as obtained from sources such as WHO, weather services, etc.
